@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <PROGRAMA><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>14</LINE></PROGRAMA>
+  <TIMER2_OVERFLOW><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>149</LINE></TIMER2_OVERFLOW>
+  <ESPERA><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>39</LINE></ESPERA>
+  <MOTOR><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>74</LINE></MOTOR>
+  <FIN><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>68</LINE></FIN>
+  <ON><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>90</LINE></ON>
+  <END><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>136</LINE></END>
+  <READ><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>99</LINE></READ>
+  <WAIT><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>101</LINE></WAIT>
+  <DIV><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>109</LINE></DIV>
+  <AGAIN><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>128</LINE></AGAIN>
+  <HERE><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>132</LINE></HERE>
+  <REV><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>154</LINE></REV>
+  <OFF><FILE>C:\Users\Lionel Dagnino\Documents\Facultad\UBA\Materias\Laboratorio de Microprocesadores\Programas\Motor\Motor.asm</FILE><LINE>157</LINE></OFF>
+ </LABELS>
+</ASSEMBLER_INFO>
